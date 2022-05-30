@@ -41,7 +41,7 @@ Add FFmpeg to PATH environment variable
 
 * Scan QR In Your Whatsapp From [Here](https://replit.com/@nexusNw/Md-Scanner?outputonly=1&lite=1)
 * Fork This Repo By Clicking [Here](https://github.com/nexusNw/Gojo-Satoru/fork)
-* then Deploy The Bot From [Here](https://heroku.com/deploy)
+* then Deploy The Bot From [Here](https://heroku.com/deploy https://github.com/ThathsaraOfficial/Black-Panther-MD-)
 * Wait 5-10 Min To Deploy 
 * After Deploying On The Worker And Check The Logs
 
@@ -75,8 +75,8 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'YOURAPIKEY',
 }
   
-global.owner = ["94741671668"]
-global.ownername = ["Black Panther MD"]
+global.owner = ["94764247716"]
+global.ownername = ["Induwara Official I.T.O"]
 ```
 </details>
 
@@ -146,4 +146,4 @@ License: [MIT](https://github.com/Gojo-Satoru/LICENSE)
 
 # Contact Me
 
--[Whatsapp](https://wa.me/94741671668?text_Hi🤟)
+-[Whatsapp](https://wa.me/9464247716?text_Hi🤟)
